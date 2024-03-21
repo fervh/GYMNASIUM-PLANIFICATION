@@ -37,3 +37,4 @@ Este algoritmo permite que un robot en Gymnasium se mueva hacia una meta utiliza
 - Controla el robot en Gymnasium para que siga la ruta óptima generada por el algoritmo.
 - Muestra por consola la casilla actual y la siguiente en todo momento para comprobar el funcionamiento del algoritmo.
 
+[gymnasium.webm](https://github.com/fervh/GYMNASIUM-PLANIFICATION/assets/55854056/0fe031af-bbf5-47de-b0ed-d0aaa4ea6191)
